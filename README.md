@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋 I'm Steve Berardi, a software engineer that lives in a sunny suburb of San Diego, California. ☀️ 🌴
 
-<!--
-**steveberardi/steveberardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm also an amateur astronomer, and I love creating maps of the sky.
 
-Here are some ideas to get you started:
+---
+### 🔭 I’m working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Starplot](https://github.com/steveberardi/starplot)
+- [Big Sky Catalog](https://github.com/steveberardi/bigsky)
+- [Sky Atlas](https://skyatlas.app/)
+
+---
+
+### 📫 Contact me @ [steveberardi.com/contact/](https://steveberardi.com/contact/)
+
